@@ -3,5 +3,22 @@
     "tabWidth": 4,
     "useTabs": true,
     "semi": false,
-    "singleQuote": false
+    "singleQuote": false,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "overrides": [
+        {
+            "files": [
+                "*.json",
+                "*.yml",
+                "*.yaml"
+            ],
+            "options": {
+                "tabWidth": 2,
+                "useTabs": false
+            }
+        }
+    ]
 }
