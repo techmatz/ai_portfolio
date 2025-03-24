@@ -7,7 +7,7 @@ export default function BotaoChat() {
 		<Popover>
 			<PopoverTrigger asChild>
 				<div className="fixed bottom-5 right-5 cursor-pointer">
-					<Image src="/chat.svg" alt="Chat" width={50} height={50} />
+					<Image src="/chat.svg" alt="Chat" width={100} height={100} />
 				</div>
 			</PopoverTrigger>
 			<PopoverContent

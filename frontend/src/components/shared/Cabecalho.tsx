@@ -17,7 +17,7 @@ export default function Cabecalho() {
 					<Link
 						href="https://www.linkedin.com/in/tematz/"
 						target="_blank"
-						className="bg-red-500 rounded-full px-7 py-1 text-sm font-bold"
+						className="bg-fuchsia-500 rounded-full px-7 py-1 text-sm font-bold"
 					>
 						Perfil
 					</Link>
